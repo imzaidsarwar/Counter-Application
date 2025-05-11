@@ -1,6 +1,7 @@
 .container {
   height: 75vh;
-  width: 60%;
+  width: auto;
+  max-width: fit-content;
   text-align: center; 
   margin: auto;
   border-radius: 10%;
